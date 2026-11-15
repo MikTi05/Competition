@@ -197,4 +197,4 @@ jupyter notebook spaceship_titanic_solution.ipynb
 
 ## Автор
 
-Kaggle: [`MikTi05`](https://www.kaggle.com/MikTi05)
+Kaggle: [`MikTi05`](https://www.kaggle.com/mikhailt95)
